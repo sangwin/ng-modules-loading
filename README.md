@@ -44,12 +44,14 @@ The application will automatically reload if you change any of the source files.
 
 Check the demo out and let me know if it helps you too.
 
+### [Click Here for DEMO](https://blog.sangw.in/ng-preloading-modules/)
+
 
 [https://sangw.in](https://sangw.in)
 
 -------
 
-# NgPreloadingModules
+# NG Loading Modules in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
